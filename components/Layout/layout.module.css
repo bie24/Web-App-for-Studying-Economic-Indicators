@@ -1,0 +1,15 @@
+.wrapper {
+  min-height: 100vh;
+  display: grid;
+  background: radial-gradient(
+    50% 96.54% at 50% 50%,
+    rgb(105, 186, 201) 0%,
+    rgba(13, 76, 236, 0.421) 140%
+  );
+}
+.logo {
+  width: 5rem;
+  position: fixed;
+  inset-block-end: 5rem;
+  inset-inline-start: 0.5rem;
+}

@@ -1,0 +1,38 @@
+.title {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  text-transform: uppercase;
+  gap: 1rem;
+  font-size: 1rem;
+  position: absolute;
+
+  inset-inline-start: 5rem;
+  padding: 1rem;
+  margin: 1rem;
+  margin-inline-start: 4rem;
+  top: -2rem;
+  color: white;
+}
+.display {
+  position: absolute;
+  top: 5rem;
+  width: 10rem;
+  text-align: center;
+  font-size: 0.8rem;
+
+  background-color: rgba(138, 138, 138, 0.166);
+  margin-inline-start: 1rem;
+  padding: 0.1rem 1.8rem;
+  border-radius: 2rem;
+  /* backdrop-filter: blur(10px); */
+  border: 0.12rem solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 0 2.5rem rgba(8, 7, 16, 0.6);
+}
+
+.hover:hover {
+  color: rgb(120, 176, 180);
+  cursor: pointer;
+}

@@ -1,0 +1,8239 @@
+{
+  "tari": [
+    {
+      "nume": "Austria",
+      "ani": [
+        {
+          "an": 2011,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3.6
+            },
+            {
+              "nume": "PIB",
+              "valoare": 2.9
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 4.9
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2012,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 2.6
+            },
+            {
+              "nume": "PIB",
+              "valoare": 0.7
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 5.2
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2013,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 2.1
+            },
+            {
+              "nume": "PIB",
+              "valoare": 0
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 5.7
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2014,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 1.5
+            },
+            {
+              "nume": "PIB",
+              "valoare": 0.7
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 6.0
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2015,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 0.8
+            },
+            {
+              "nume": "PIB",
+              "valoare": 1
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 6.1
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2016,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 1
+            },
+            {
+              "nume": "PIB",
+              "valoare": 2
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 6.5
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2017,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 2.2
+            },
+            {
+              "nume": "PIB",
+              "valoare": 2.3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 5.9
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2018,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 2.1
+            },
+            {
+              "nume": "PIB",
+              "valoare": 2.4
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 5.2
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2019,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 1.5
+            },
+            {
+              "nume": "PIB",
+              "valoare": 1.5
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 4.8
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2020,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 1.4
+            },
+            {
+              "nume": "PIB",
+              "valoare": -6.5
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 6.0
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2021,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 2.8
+            },
+            {
+              "nume": "PIB",
+              "valoare": 4.6
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 6.2
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2022,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 8.6
+            },
+            {
+              "nume": "PIB",
+              "valoare": 5
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 4.8
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nume": "Belgia",
+      "ani": [
+        {
+          "an": 2011,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2012,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2013,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2014,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2015,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2016,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2017,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2018,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2019,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2020,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2021,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2022,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nume": "Bulgaria",
+      "ani": [
+        {
+          "an": 2011,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2012,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2013,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2014,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2015,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2016,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2017,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2018,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2019,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2020,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2021,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2022,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nume": "Cehia",
+      "ani": [
+        {
+          "an": 2011,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2012,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2013,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2014,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2015,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2016,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2017,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2018,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2019,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2020,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2021,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2022,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nume": "Cipru",
+      "ani": [
+        {
+          "an": 2011,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2012,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2013,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2014,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2015,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2016,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2017,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2018,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2019,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2020,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2021,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2022,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nume": "Croatia",
+      "ani": [
+        {
+          "an": 2011,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2012,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2013,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2014,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2015,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2016,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2017,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2018,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2019,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2020,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2021,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2022,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nume": "Danemarca",
+      "ani": [
+        {
+          "an": 2011,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2012,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2013,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2014,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2015,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2016,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2017,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2018,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2019,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2020,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2021,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2022,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nume": "Estonia",
+      "ani": [
+        {
+          "an": 2011,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2012,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2013,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2014,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2015,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2016,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2017,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2018,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2019,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2020,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2021,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2022,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nume": "Finlanda",
+      "ani": [
+        {
+          "an": 2011,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2012,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2013,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2014,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2015,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2016,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2017,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2018,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2019,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2020,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2021,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2022,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nume": "Franta",
+      "ani": [
+        {
+          "an": 2011,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2012,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2013,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2014,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2015,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2016,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2017,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2018,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2019,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2020,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2021,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2022,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nume": "Germania",
+      "ani": [
+        {
+          "an": 2011,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2012,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2013,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2014,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2015,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2016,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2017,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2018,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2019,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2020,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2021,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2022,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nume": "Grecia",
+      "ani": [
+        {
+          "an": 2011,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2012,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2013,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2014,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2015,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2016,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2017,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2018,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2019,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2020,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2021,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2022,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nume": "Irlanda",
+      "ani": [
+        {
+          "an": 2011,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2012,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2013,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2014,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2015,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2016,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2017,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2018,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2019,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2020,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2021,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2022,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nume": "Italia",
+      "ani": [
+        {
+          "an": 2011,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2012,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2013,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2014,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2015,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2016,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2017,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2018,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2019,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2020,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2021,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2022,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nume": "Letonia",
+      "ani": [
+        {
+          "an": 2011,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2012,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2013,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2014,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2015,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2016,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2017,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2018,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2019,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2020,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2021,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2022,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nume": "Lituania",
+      "ani": [
+        {
+          "an": 2011,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2012,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2013,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2014,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2015,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2016,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2017,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2018,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2019,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2020,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2021,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2022,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nume": "Luxemburg",
+      "ani": [
+        {
+          "an": 2011,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2012,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2013,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2014,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2015,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2016,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2017,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2018,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2019,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2020,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2021,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2022,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nume": "Malta",
+      "ani": [
+        {
+          "an": 2011,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2012,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2013,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2014,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2015,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2016,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2017,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2018,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2019,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2020,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2021,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2022,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nume": "Olanda",
+      "ani": [
+        {
+          "an": 2011,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2012,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2013,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2014,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2015,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2016,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2017,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2018,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2019,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2020,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2021,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2022,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nume": "Polonia",
+      "ani": [
+        {
+          "an": 2011,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2012,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2013,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2014,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2015,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2016,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2017,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2018,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2019,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2020,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2021,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2022,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nume": "Portugalia",
+      "ani": [
+        {
+          "an": 2011,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2012,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2013,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2014,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2015,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2016,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2017,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2018,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2019,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2020,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2021,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2022,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nume": "Romania",
+      "ani": [
+        {
+          "an": 2011,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2012,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2013,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2014,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2015,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2016,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2017,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2018,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2019,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2020,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2021,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2022,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nume": "Slovacia",
+      "ani": [
+        {
+          "an": 2011,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2012,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2013,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2014,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2015,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2016,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2017,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2018,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2019,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2020,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2021,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2022,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nume": "Slovenia",
+      "ani": [
+        {
+          "an": 2011,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2012,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2013,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2014,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2015,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2016,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2017,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2018,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2019,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2020,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2021,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2022,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nume": "Spania",
+      "ani": [
+        {
+          "an": 2011,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2012,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2013,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2014,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2015,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2016,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2017,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2018,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2019,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2020,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2021,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2022,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nume": "Suedia",
+      "ani": [
+        {
+          "an": 2011,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2012,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2013,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2014,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2015,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2016,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2017,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2018,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2019,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2020,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2021,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2022,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nume": "Ungaria",
+      "ani": [
+        {
+          "an": 2011,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2012,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2013,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2014,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2015,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2016,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2017,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2018,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2019,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2020,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2021,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        },
+        {
+          "an": 2022,
+          "indicatori": [
+            {
+              "nume": "Inflatie",
+              "valoare": 3
+            },
+            {
+              "nume": "PIB",
+              "valoare": 3
+            },
+            {
+              "nume": "Rata somaj",
+              "valoare": 3
+            },
+            {
+              "nume": "Curs valutar",
+              "valoare": 3
+            },
+            {
+              "nume": "Indicator",
+              "valoare": 3
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
