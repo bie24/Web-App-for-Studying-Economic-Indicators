@@ -107,51 +107,8 @@ export default function Indicators({ country, year, onClose }) {
     year,
     "Indicator"
   );
-  // const inflatieIndicator = indicators.find(
-  //   (indicator) => indicator.nume === "Inflatie"
-  // );
-  // const inflatieAnPrecedentIndicator = country.ani
-  //   .find((y) => y.an === year - 1)
-  //   ?.indicatori.find((indicator) => indicator.nume === "Inflatie");
-
-  // const difInflatie = inflatieAnPrecedentIndicator
-  //   ? (
-  //       inflatieIndicator?.valoare - inflatieAnPrecedentIndicator.valoare
-  //     ).toFixed(1)
-  //   : undefined;
-
-  // const arrowDirection1 = getArrowDirection(
-  //   inflatieAnPrecedentIndicator,
-  //   inflatieIndicator
-  // );
-
-  // const pibIndicator = indicators.find((indicator) => indicator.nume === "PIB");
-  // const pibAnPrecedentIndicator = country.ani
-  //   .find((y) => y.an === year - 1)
-  //   ?.indicatori.find((indicator) => indicator.nume === "PIB");
-  // const pibInflatie = pibAnPrecedentIndicator
-  //   ? (pibIndicator?.valoare - pibAnPrecedentIndicator.valoare).toFixed(1)
-  //   : undefined;
-  // const difpib = pibAnPrecedentIndicator
-  //   ? (pibIndicator?.valoare - pibAnPrecedentIndicator.valoare).toFixed(1)
-  //   : undefined;
-  // const arrowDirection2 = getArrowDirection(
-  //   pibAnPrecedentIndicator,
-  //   pibIndicator
-  // );
-
-  // const rataSomajIndicator = indicators.find(
-  //   (indicator) => indicator.nume === "Rata somaj"
-  // );
-  // const cursValutarIndicator = indicators.find(
-  //   (indicator) => indicator.nume === "Curs valutar"
-  // );
-  // const indIndicator = indicators.find(
-  //   (indicator) => indicator.nume === "Indicator"
-  // );
-
   return (
-    <div>
+    <div className={styles.allData}>
       <div className={styles.title}>
         <h2>{country.nume} </h2>
         <h2 className={styles.dot}>⚪</h2>
@@ -325,6 +282,13 @@ export default function Indicators({ country, year, onClose }) {
           {indicatorData.absDif}% fata de anul anterior
         </p>
       </div>
+      <div className={styles.displayInd6}></div>
+      <div className={styles.displayInd7}></div>
+      <div className={styles.displayInd8}></div>
+      <div className={styles.displayInd9}></div>
+      <div className={styles.displayInd10}></div>
+      <div className={styles.displayInd11}></div>
+      <div className={styles.displayInd12}></div>
     </div>
   );
 }

@@ -1,0 +1,143 @@
+.title {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  text-transform: uppercase;
+  gap: 1rem;
+  font-size: 1.5rem;
+  position: absolute;
+
+  inset-inline-start: 5rem;
+  padding: 1rem;
+  margin: 1rem;
+  margin-inline-start: 4rem;
+  top: -9rem;
+  color: white;
+}
+/* .display {
+  position: absolute;
+  top: 15rem;
+  width: 12rem;
+  text-align: center;
+  font-size: 0.8rem;
+
+  background-color: rgba(138, 138, 138, 0.166);
+  margin-inline-start: 1rem;
+  padding: 0.1rem 1.8rem;
+  border-radius: 2rem;
+  /* backdrop-filter: blur(10px); 
+
+} */
+/* .export {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  text-transform: uppercase;
+  gap: 1rem;
+  font-size: 1.5rem;
+  position: absolute;
+
+  inset-inline-start: 5rem;
+  padding: 1rem;
+  margin: 1rem;
+  margin-inline-start: 4rem;
+  top: -5rem;
+} */
+
+.exportData {
+  display: flex;
+  flex-direction: row;
+  position: absolute;
+  top: -3rem;
+  margin-inline-start: 2rem;
+  /* width: 15rem; */
+}
+.downloadIcon {
+  color: white;
+  height: 1.8rem;
+  width: 1.8rem;
+  cursor: pointer;
+  /* position: absolute;
+  top: -3.5rem;
+  margin-inline-start: 2rem; */
+  /* margin-block-start: 1rem; */
+}
+.titleExport {
+  text-transform: uppercase;
+  gap: 1rem;
+  font-size: 1rem;
+  /* position: absolute; */
+  background-color: transparent;
+  border: none;
+
+  /* inset-inline-start: 7rem;
+  padding: 1rem;
+  margin: 1rem;
+  margin-inline-start: 4rem;
+  top: -5rem; */
+  color: white;
+}
+.container {
+  position: absolute;
+  top: 60%;
+  left: 302%;
+  transform: translate(-50%, -50%);
+}
+
+.table {
+  width: 1230px;
+  border-collapse: collapse;
+  overflow: hidden;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  border-radius: 1rem;
+}
+
+.th,
+.td {
+  padding: 11px;
+  background-color: rgba(18, 39, 43, 0.685);
+  color: #fff;
+  backdrop-filter: blur(5px);
+  text-align: center;
+}
+
+.th {
+  text-align: center;
+}
+
+.thead .th {
+  background-color: #112e42;
+}
+
+/* .tbody .tr:hover {
+  background-color: rgba(255, 255, 255, 0.3);
+  color: black;
+}
+
+.tbody .td:hover:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: -9999px;
+  bottom: -9999px;
+  background-color: rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(10px);
+  color: black;
+} */
+/* 
+.th:hover,
+.tbody td:nth-child(n + 2):hover {
+  background-color: rgba(255, 255, 255, 0.3);
+  color: black;
+}
+
+
+.tbody tr:hover td {
+  background-color: rgba(255, 255, 255, 0.3);
+  color: black;
+} */
