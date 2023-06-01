@@ -51,10 +51,11 @@ export default function Table({ country }) {
     <div className={styles.display}>
       <h2 className={styles.title}>{country.nume}</h2>
       <div className={styles.exportData}>
-        <Image src={Download} className={styles.downloadIcon} />
-        <button ref={exportBtn} className={styles.titleExport}>
-          Export
+        <button ref={exportBtn} className={styles.export}>
+          <Image src={Download} className={styles.downloadIcon} />{" "}
         </button>
+
+        <button className={styles.export}>Export</button>
       </div>
       <div className={styles.container}>
         <table

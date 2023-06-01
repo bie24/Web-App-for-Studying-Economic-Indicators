@@ -10,6 +10,52 @@
 .logo {
   width: 5rem;
   position: fixed;
-  inset-block-end: 5rem;
-  inset-inline-start: 0.5rem;
+  /* inset-block-end: 5rem;
+  inset-inline-start: 0.5rem; */
+  top: 4rem;
+  left: 2.9rem;
+  transform: translate(-50%, -50%);
 }
+
+@media only screen and (max-width: 768px) {
+  .wrapper {
+    /* display: block; */
+    height: 100%;
+    width: 100%;
+  }
+
+  .logo {
+    position: static;
+    display: block;
+    margin: auto;
+    margin-bottom: 1rem;
+  }
+
+  .container {
+    margin: 2rem;
+  }
+}
+/* @media only screen and (min-width: 1600px) {
+  .wrapper {
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    align-items: center;
+    background: radial-gradient(
+      50% 96.54% at 50% 50%,
+      rgb(105, 186, 201) 0%,
+      rgba(13, 76, 236, 0.421) 140%
+    );
+  }
+
+  .logo {
+    position: absolute;
+    top: -35rem;
+    margin-right: 2rem;
+    margin-block-start: 1rem;
+  }
+
+  .container {
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+} */

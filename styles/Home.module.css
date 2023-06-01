@@ -9,3 +9,6 @@
   position: absolute;
   z-index: 1;
 }
+.blur {
+  filter: blur(10px);
+}

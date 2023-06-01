@@ -1,4 +1,4 @@
-import { useState } from "react";
+import React, { useState } from "react";
 import Head from "next/head";
 import Image from "next/image";
 import Layout from "../components/Layout/Layout";
@@ -13,6 +13,11 @@ import Logo from "../icons/logo.svg";
 import Years from "@/components/Years/Years";
 
 export default function Home() {
+  const [isBlurred, setIsBlurred] = useState(false);
+
+  const handleButtonClick = () => {
+    setIsBlurred((prevIsBlurred) => !prevIsBlurred);
+  };
   return (
     <Layout title="Home">
       <Head>
@@ -22,10 +27,10 @@ export default function Home() {
       </Head>
       <div className={styles.display}>
         <div className={styles.leftBtns}>
-          <LeftButtons />
+          <LeftButtons onButtonClick={handleButtonClick} />
         </div>
         <div className={styles.map}>
-          <MapChart />
+          <MapChart isBlurred={isBlurred} />
         </div>
       </div>
     </Layout>

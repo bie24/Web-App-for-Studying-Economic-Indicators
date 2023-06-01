@@ -10,7 +10,7 @@ export default function Layout({ title, children }) {
     <>
       <Head>
         <title>{title}</title>
-        <meta name="description" content="Magazin online" />
+        <meta name="description" content="Aplicatie Indicatori" />
         <link rel="icon" href="/favicon.ico" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
