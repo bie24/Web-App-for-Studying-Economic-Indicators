@@ -12,7 +12,7 @@
             },
             {
               "nume": "PIB",
-              "valoare": 2.9
+              "valoare": 1
             },
             {
               "nume": "Rata somaj",
@@ -37,7 +37,7 @@
             },
             {
               "nume": "PIB",
-              "valoare": 0.7
+              "valoare": 2.1
             },
             {
               "nume": "Rata somaj",
@@ -62,7 +62,7 @@
             },
             {
               "nume": "PIB",
-              "valoare": 0
+              "valoare": 0.8
             },
             {
               "nume": "Rata somaj",
@@ -87,7 +87,7 @@
             },
             {
               "nume": "PIB",
-              "valoare": 0.7
+              "valoare": 1.1
             },
             {
               "nume": "Rata somaj",
@@ -112,7 +112,7 @@
             },
             {
               "nume": "PIB",
-              "valoare": 1
+              "valoare": 0.7
             },
             {
               "nume": "Rata somaj",
@@ -137,7 +137,7 @@
             },
             {
               "nume": "PIB",
-              "valoare": 2
+              "valoare": 1.1
             },
             {
               "nume": "Rata somaj",
@@ -162,7 +162,7 @@
             },
             {
               "nume": "PIB",
-              "valoare": 2.3
+              "valoare": 0.6
             },
             {
               "nume": "Rata somaj",
@@ -187,7 +187,7 @@
             },
             {
               "nume": "PIB",
-              "valoare": 2.4
+              "valoare": 1.3
             },
             {
               "nume": "Rata somaj",
@@ -212,7 +212,7 @@
             },
             {
               "nume": "PIB",
-              "valoare": 1.5
+              "valoare": 0.7
             },
             {
               "nume": "Rata somaj",
@@ -237,7 +237,7 @@
             },
             {
               "nume": "PIB",
-              "valoare": -6.5
+              "valoare": -1.3
             },
             {
               "nume": "Rata somaj",
@@ -262,7 +262,7 @@
             },
             {
               "nume": "PIB",
-              "valoare": 4.6
+              "valoare": 2.1
             },
             {
               "nume": "Rata somaj",
@@ -287,7 +287,7 @@
             },
             {
               "nume": "PIB",
-              "valoare": 5
+              "valoare": "-"
             },
             {
               "nume": "Rata somaj",
@@ -313,11 +313,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 3.4
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 0.4
             },
             {
               "nume": "Rata somaj",
@@ -338,11 +338,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2.6
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 0.1
             },
             {
               "nume": "Rata somaj",
@@ -363,11 +363,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1.2
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 0
             },
             {
               "nume": "Rata somaj",
@@ -388,11 +388,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.5
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 1.1
             },
             {
               "nume": "Rata somaj",
@@ -413,11 +413,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.6
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 1.5
             },
             {
               "nume": "Rata somaj",
@@ -438,11 +438,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1.8
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 0.8
             },
             {
               "nume": "Rata somaj",
@@ -463,11 +463,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2.2
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 1.2
             },
             {
               "nume": "Rata somaj",
@@ -488,11 +488,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2.3
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 1.3
             },
             {
               "nume": "Rata somaj",
@@ -513,11 +513,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1.2
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 1.7
             },
             {
               "nume": "Rata somaj",
@@ -538,11 +538,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.4
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -5.8
             },
             {
               "nume": "Rata somaj",
@@ -563,11 +563,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 3.2
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 5.6
             },
             {
               "nume": "Rata somaj",
@@ -588,11 +588,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 10.3
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": "-"
             },
             {
               "nume": "Rata somaj",
@@ -618,11 +618,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 3.4
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 2.8
             },
             {
               "nume": "Rata somaj",
@@ -643,11 +643,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2.4
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 1.3
             },
             {
               "nume": "Rata somaj",
@@ -668,11 +668,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.4
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 0
             },
             {
               "nume": "Rata somaj",
@@ -693,11 +693,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": -1.6
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 1.5
             },
             {
               "nume": "Rata somaj",
@@ -718,11 +718,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": -1.1
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 4.1
             },
             {
               "nume": "Rata somaj",
@@ -743,11 +743,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": -1.3
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 3.8
             },
             {
               "nume": "Rata somaj",
@@ -768,11 +768,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1.2
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 3.5
             },
             {
               "nume": "Rata somaj",
@@ -793,11 +793,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2.6
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 3.4
             },
             {
               "nume": "Rata somaj",
@@ -818,11 +818,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2.5
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 4.8
             },
             {
               "nume": "Rata somaj",
@@ -843,11 +843,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1.2
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -3.4
             },
             {
               "nume": "Rata somaj",
@@ -868,11 +868,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2.8
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 8.5
             },
             {
               "nume": "Rata somaj",
@@ -893,11 +893,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 13
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": "-"
             },
             {
               "nume": "Rata somaj",
@@ -923,11 +923,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2.2
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 1.6
             },
             {
               "nume": "Rata somaj",
@@ -948,11 +948,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 3.5
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -0.9
             },
             {
               "nume": "Rata somaj",
@@ -973,11 +973,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1.4
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -0.1
             },
             {
               "nume": "Rata somaj",
@@ -998,11 +998,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.4
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 2.2
             },
             {
               "nume": "Rata somaj",
@@ -1023,11 +1023,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.3
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 5.2
             },
             {
               "nume": "Rata somaj",
@@ -1048,11 +1048,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.6
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 2.3
             },
             {
               "nume": "Rata somaj",
@@ -1073,11 +1073,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2.4
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 4.9
             },
             {
               "nume": "Rata somaj",
@@ -1098,11 +1098,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 2.9
             },
             {
               "nume": "Rata somaj",
@@ -1123,11 +1123,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2.6
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 2.6
             },
             {
               "nume": "Rata somaj",
@@ -1148,11 +1148,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 3.3
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -5.7
             },
             {
               "nume": "Rata somaj",
@@ -1173,11 +1173,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 3.3
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 5.4
             },
             {
               "nume": "Rata somaj",
@@ -1198,11 +1198,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 14.8
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": "-"
             },
             {
               "nume": "Rata somaj",
@@ -1228,11 +1228,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 3.5
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -2.1
             },
             {
               "nume": "Rata somaj",
@@ -1253,11 +1253,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 3.1
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -4.9
             },
             {
               "nume": "Rata somaj",
@@ -1278,11 +1278,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.4
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -6.4
             },
             {
               "nume": "Rata somaj",
@@ -1303,11 +1303,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": -0.3
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -0.7
             },
             {
               "nume": "Rata somaj",
@@ -1328,11 +1328,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": -1.5
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 4
             },
             {
               "nume": "Rata somaj",
@@ -1353,11 +1353,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": -1.2
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 6.1
             },
             {
               "nume": "Rata somaj",
@@ -1378,11 +1378,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.7
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 4.8
             },
             {
               "nume": "Rata somaj",
@@ -1403,11 +1403,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.8
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 4.4
             },
             {
               "nume": "Rata somaj",
@@ -1428,11 +1428,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.5
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 4.1
             },
             {
               "nume": "Rata somaj",
@@ -1453,11 +1453,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": -1.1
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -5.5
             },
             {
               "nume": "Rata somaj",
@@ -1478,11 +1478,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2.3
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 5.6
             },
             {
               "nume": "Rata somaj",
@@ -1503,11 +1503,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 8.1
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": "-"
             },
             {
               "nume": "Rata somaj",
@@ -1533,11 +1533,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2.2
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 0.3
             },
             {
               "nume": "Rata somaj",
@@ -1558,11 +1558,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 3.4
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -2
             },
             {
               "nume": "Rata somaj",
@@ -1583,11 +1583,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2.3
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -0.1
             },
             {
               "nume": "Rata somaj",
@@ -1608,11 +1608,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.2
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 0
             },
             {
               "nume": "Rata somaj",
@@ -1633,11 +1633,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": -0.3
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 3.4
             },
             {
               "nume": "Rata somaj",
@@ -1658,11 +1658,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": -0.6
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 4.3
             },
             {
               "nume": "Rata somaj",
@@ -1683,11 +1683,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1.3
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 4.7
             },
             {
               "nume": "Rata somaj",
@@ -1708,11 +1708,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1.6
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 3.7
             },
             {
               "nume": "Rata somaj",
@@ -1733,11 +1733,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.8
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 4.0
             },
             {
               "nume": "Rata somaj",
@@ -1758,11 +1758,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -8.2
             },
             {
               "nume": "Rata somaj",
@@ -1783,11 +1783,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2.7
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 17.4
             },
             {
               "nume": "Rata somaj",
@@ -1808,11 +1808,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 10.7
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": "-"
             },
             {
               "nume": "Rata somaj",
@@ -1838,11 +1838,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2.7
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 0.9
             },
             {
               "nume": "Rata somaj",
@@ -1863,11 +1863,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2.4
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -0.1
             },
             {
               "nume": "Rata somaj",
@@ -1888,11 +1888,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.5
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 0.5
             },
             {
               "nume": "Rata somaj",
@@ -1913,11 +1913,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.4
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 1.1
             },
             {
               "nume": "Rata somaj",
@@ -1938,11 +1938,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.2
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 1.6
             },
             {
               "nume": "Rata somaj",
@@ -1963,11 +1963,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 2.4
             },
             {
               "nume": "Rata somaj",
@@ -1988,11 +1988,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1.1
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 2.2
             },
             {
               "nume": "Rata somaj",
@@ -2013,11 +2013,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.7
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 1.5
             },
             {
               "nume": "Rata somaj",
@@ -2038,11 +2038,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.7
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 1.1
             },
             {
               "nume": "Rata somaj",
@@ -2063,11 +2063,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.3
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -2.3
             },
             {
               "nume": "Rata somaj",
@@ -2088,11 +2088,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1.9
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 4.4
             },
             {
               "nume": "Rata somaj",
@@ -2113,11 +2113,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 8.5
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": "-"
             },
             {
               "nume": "Rata somaj",
@@ -2143,11 +2143,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 5.1
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 7.6
             },
             {
               "nume": "Rata somaj",
@@ -2168,11 +2168,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 4.2
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 3.6
             },
             {
               "nume": "Rata somaj",
@@ -2193,11 +2193,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 3.2
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 1.8
             },
             {
               "nume": "Rata somaj",
@@ -2218,11 +2218,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.5
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 3.3
             },
             {
               "nume": "Rata somaj",
@@ -2243,11 +2243,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.1
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 1.8
             },
             {
               "nume": "Rata somaj",
@@ -2268,11 +2268,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.8
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 3.1
             },
             {
               "nume": "Rata somaj",
@@ -2293,11 +2293,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 3.7
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 5.7
             },
             {
               "nume": "Rata somaj",
@@ -2318,11 +2318,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 3.4
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 3.4
             },
             {
               "nume": "Rata somaj",
@@ -2343,11 +2343,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2.3
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 3.4
             },
             {
               "nume": "Rata somaj",
@@ -2368,11 +2368,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": -0.6
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -0.7
             },
             {
               "nume": "Rata somaj",
@@ -2393,11 +2393,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 4.5
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 7.9
             },
             {
               "nume": "Rata somaj",
@@ -2418,11 +2418,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 19.4
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": "-"
             },
             {
               "nume": "Rata somaj",
@@ -2448,11 +2448,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 3.3
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 2.1
             },
             {
               "nume": "Rata somaj",
@@ -2473,11 +2473,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 3.2
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -1.9
             },
             {
               "nume": "Rata somaj",
@@ -2498,11 +2498,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2.2
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -1.4
             },
             {
               "nume": "Rata somaj",
@@ -2523,11 +2523,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1.2
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -0.8
             },
             {
               "nume": "Rata somaj",
@@ -2548,11 +2548,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": -0.2
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 0.2
             },
             {
               "nume": "Rata somaj",
@@ -2573,11 +2573,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.4
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 2.5
             },
             {
               "nume": "Rata somaj",
@@ -2598,7 +2598,7 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.8
             },
             {
               "nume": "PIB",
@@ -2623,11 +2623,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1.2
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 1
             },
             {
               "nume": "Rata somaj",
@@ -2648,11 +2648,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1.1
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 1.1
             },
             {
               "nume": "Rata somaj",
@@ -2673,11 +2673,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.4
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -2.3
             },
             {
               "nume": "Rata somaj",
@@ -2698,11 +2698,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2.1
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 2.8
             },
             {
               "nume": "Rata somaj",
@@ -2723,11 +2723,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 7.2
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": "-"
             },
             {
               "nume": "Rata somaj",
@@ -2753,11 +2753,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2.3
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 1.7
             },
             {
               "nume": "Rata somaj",
@@ -2778,11 +2778,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2.2
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -0.2
             },
             {
               "nume": "Rata somaj",
@@ -2803,11 +2803,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 0.1
             },
             {
               "nume": "Rata somaj",
@@ -2828,11 +2828,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.6
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 0.5
             },
             {
               "nume": "Rata somaj",
@@ -2853,11 +2853,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.1
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 0.8
             },
             {
               "nume": "Rata somaj",
@@ -2878,11 +2878,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.3
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 0.8
             },
             {
               "nume": "Rata somaj",
@@ -2903,11 +2903,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1.2
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 2
             },
             {
               "nume": "Rata somaj",
@@ -2928,11 +2928,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2.1
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 1.5
             },
             {
               "nume": "Rata somaj",
@@ -2953,11 +2953,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1.3
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 1.5
             },
             {
               "nume": "Rata somaj",
@@ -2978,11 +2978,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.5
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -8
             },
             {
               "nume": "Rata somaj",
@@ -3003,11 +3003,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2.1
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 6.5
             },
             {
               "nume": "Rata somaj",
@@ -3028,11 +3028,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 5.9
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": "-"
             },
             {
               "nume": "Rata somaj",
@@ -3058,11 +3058,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2.5
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 5.9
             },
             {
               "nume": "Rata somaj",
@@ -3083,11 +3083,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2.2
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 0.2
             },
             {
               "nume": "Rata somaj",
@@ -3108,11 +3108,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1.6
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 0.2
             },
             {
               "nume": "Rata somaj",
@@ -3133,11 +3133,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.8
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 1.8
             },
             {
               "nume": "Rata somaj",
@@ -3158,11 +3158,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.7
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 0.6
             },
             {
               "nume": "Rata somaj",
@@ -3183,11 +3183,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.4
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 1.4
             },
             {
               "nume": "Rata somaj",
@@ -3208,11 +3208,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1.7
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 2.3
             },
             {
               "nume": "Rata somaj",
@@ -3233,11 +3233,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1.9
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 0.7
             },
             {
               "nume": "Rata somaj",
@@ -3258,11 +3258,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1.4
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 0.8
             },
             {
               "nume": "Rata somaj",
@@ -3283,11 +3283,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.4
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -3.8
             },
             {
               "nume": "Rata somaj",
@@ -3308,11 +3308,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 3.2
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 2.6
             },
             {
               "nume": "Rata somaj",
@@ -3333,11 +3333,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 8.7
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": "-"
             },
             {
               "nume": "Rata somaj",
@@ -3363,11 +3363,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 3.1
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -10
             },
             {
               "nume": "Rata somaj",
@@ -3388,11 +3388,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -6.6
             },
             {
               "nume": "Rata somaj",
@@ -3413,11 +3413,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": -0.9
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -1.8
             },
             {
               "nume": "Rata somaj",
@@ -3438,11 +3438,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": -1.4
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 1.1
             },
             {
               "nume": "Rata somaj",
@@ -3463,11 +3463,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": -1.1
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 0.5
             },
             {
               "nume": "Rata somaj",
@@ -3488,11 +3488,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -0.1
             },
             {
               "nume": "Rata somaj",
@@ -3513,11 +3513,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1.1
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 1.3
             },
             {
               "nume": "Rata somaj",
@@ -3538,11 +3538,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.8
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 1.9
             },
             {
               "nume": "Rata somaj",
@@ -3563,11 +3563,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.5
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 2
             },
             {
               "nume": "Rata somaj",
@@ -3588,11 +3588,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": -1.3
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -8.8
             },
             {
               "nume": "Rata somaj",
@@ -3613,11 +3613,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.6
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 9
             },
             {
               "nume": "Rata somaj",
@@ -3638,11 +3638,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 9.3
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": "-"
             },
             {
               "nume": "Rata somaj",
@@ -3668,11 +3668,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1.2
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 0.4
             },
             {
               "nume": "Rata somaj",
@@ -3693,11 +3693,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1.9
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -0.4
             },
             {
               "nume": "Rata somaj",
@@ -3718,11 +3718,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.5
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 0.6
             },
             {
               "nume": "Rata somaj",
@@ -3743,11 +3743,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.3
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 7.9
             },
             {
               "nume": "Rata somaj",
@@ -3768,11 +3768,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 23.2
             },
             {
               "nume": "Rata somaj",
@@ -3793,11 +3793,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": -0.2
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 0.9
             },
             {
               "nume": "Rata somaj",
@@ -3818,11 +3818,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.3
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 7.8
             },
             {
               "nume": "Rata somaj",
@@ -3843,11 +3843,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.7
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 7.2
             },
             {
               "nume": "Rata somaj",
@@ -3868,11 +3868,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.9
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 4.0
             },
             {
               "nume": "Rata somaj",
@@ -3893,11 +3893,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": -0.5
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 5.1
             },
             {
               "nume": "Rata somaj",
@@ -3918,11 +3918,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2.4
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 12.5
             },
             {
               "nume": "Rata somaj",
@@ -3943,11 +3943,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 8.1
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": "-"
             },
             {
               "nume": "Rata somaj",
@@ -3973,11 +3973,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2.9
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 0.5
             },
             {
               "nume": "Rata somaj",
@@ -3998,11 +3998,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 3.3
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -3.2
             },
             {
               "nume": "Rata somaj",
@@ -4023,11 +4023,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1.2
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -3
             },
             {
               "nume": "Rata somaj",
@@ -4048,11 +4048,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.2
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -0.9
             },
             {
               "nume": "Rata somaj",
@@ -4073,11 +4073,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.1
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 0.9
             },
             {
               "nume": "Rata somaj",
@@ -4098,11 +4098,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": -0.1
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 1.5
             },
             {
               "nume": "Rata somaj",
@@ -4123,11 +4123,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1.3
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 1.8
             },
             {
               "nume": "Rata somaj",
@@ -4148,11 +4148,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1.2
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 1.1
             },
             {
               "nume": "Rata somaj",
@@ -4173,11 +4173,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.6
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 1.6
             },
             {
               "nume": "Rata somaj",
@@ -4198,11 +4198,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": -0.1
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -8.6
             },
             {
               "nume": "Rata somaj",
@@ -4223,11 +4223,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1.9
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 7.3
             },
             {
               "nume": "Rata somaj",
@@ -4248,11 +4248,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 8.7
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": "-"
             },
             {
               "nume": "Rata somaj",
@@ -4278,11 +4278,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 4.2
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 4.5
             },
             {
               "nume": "Rata somaj",
@@ -4303,11 +4303,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2.3
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 8.4
             },
             {
               "nume": "Rata somaj",
@@ -4328,11 +4328,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 3.1
             },
             {
               "nume": "Rata somaj",
@@ -4353,11 +4353,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.7
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 2.9
             },
             {
               "nume": "Rata somaj",
@@ -4378,11 +4378,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.2
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 4.7
             },
             {
               "nume": "Rata somaj",
@@ -4403,11 +4403,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.1
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 3.3
             },
             {
               "nume": "Rata somaj",
@@ -4428,11 +4428,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2.9
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 4.2
             },
             {
               "nume": "Rata somaj",
@@ -4453,11 +4453,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2.6
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 4.8
             },
             {
               "nume": "Rata somaj",
@@ -4478,11 +4478,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2.7
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 3.3
             },
             {
               "nume": "Rata somaj",
@@ -4503,11 +4503,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.1
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -1.5
             },
             {
               "nume": "Rata somaj",
@@ -4528,11 +4528,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 3.2
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 4.9
             },
             {
               "nume": "Rata somaj",
@@ -4553,11 +4553,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 17.2
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": "-"
             },
             {
               "nume": "Rata somaj",
@@ -4583,11 +4583,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 4.1
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 8.5
             },
             {
               "nume": "Rata somaj",
@@ -4608,11 +4608,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 3.2
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 5.2
             },
             {
               "nume": "Rata somaj",
@@ -4633,11 +4633,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1.2
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 4.6
             },
             {
               "nume": "Rata somaj",
@@ -4658,11 +4658,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.2
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 4.4
             },
             {
               "nume": "Rata somaj",
@@ -4683,7 +4683,7 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": -0.7
             },
             {
               "nume": "PIB",
@@ -4708,11 +4708,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.7
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 3.8
             },
             {
               "nume": "Rata somaj",
@@ -4733,11 +4733,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 3.7
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 5.8
             },
             {
               "nume": "Rata somaj",
@@ -4758,11 +4758,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2.5
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 5
             },
             {
               "nume": "Rata somaj",
@@ -4783,11 +4783,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2.2
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 4.9
             },
             {
               "nume": "Rata somaj",
@@ -4808,11 +4808,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1.1
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 0
             },
             {
               "nume": "Rata somaj",
@@ -4833,11 +4833,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 4.6
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 5.8
             },
             {
               "nume": "Rata somaj",
@@ -4858,11 +4858,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 18.9
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": "-"
             },
             {
               "nume": "Rata somaj",
@@ -4888,11 +4888,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 3.7
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -1.2
             },
             {
               "nume": "Rata somaj",
@@ -4913,11 +4913,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2.9
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -0.8
             },
             {
               "nume": "Rata somaj",
@@ -4938,11 +4938,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1.7
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 0.8
             },
             {
               "nume": "Rata somaj",
@@ -4963,11 +4963,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.7
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 0.2
             },
             {
               "nume": "Rata somaj",
@@ -4988,11 +4988,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.1
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -0.1
             },
             {
               "nume": "Rata somaj",
@@ -5013,11 +5013,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 2.7
             },
             {
               "nume": "Rata somaj",
@@ -5038,11 +5038,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2.1
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -1.1
             },
             {
               "nume": "Rata somaj",
@@ -5063,11 +5063,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -0.7
             },
             {
               "nume": "Rata somaj",
@@ -5088,11 +5088,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1.6
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 0.3
             },
             {
               "nume": "Rata somaj",
@@ -5113,11 +5113,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -2.4
             },
             {
               "nume": "Rata somaj",
@@ -5138,11 +5138,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 3.5
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 3.5
             },
             {
               "nume": "Rata somaj",
@@ -5163,11 +5163,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 8.2
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": "-"
             },
             {
               "nume": "Rata somaj",
@@ -5193,11 +5193,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2.5
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 0
             },
             {
               "nume": "Rata somaj",
@@ -5218,11 +5218,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 3.2
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 3.2
             },
             {
               "nume": "Rata somaj",
@@ -5243,11 +5243,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 4
             },
             {
               "nume": "Rata somaj",
@@ -5268,11 +5268,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.8
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 5.5
             },
             {
               "nume": "Rata somaj",
@@ -5293,11 +5293,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1.2
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 7
             },
             {
               "nume": "Rata somaj",
@@ -5318,11 +5318,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.9
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 1
             },
             {
               "nume": "Rata somaj",
@@ -5343,11 +5343,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1.3
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 7.9
             },
             {
               "nume": "Rata somaj",
@@ -5368,11 +5368,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1.7
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 2.5
             },
             {
               "nume": "Rata somaj",
@@ -5393,11 +5393,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1.5
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 1.8
             },
             {
               "nume": "Rata somaj",
@@ -5418,11 +5418,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.8
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -10.3
             },
             {
               "nume": "Rata somaj",
@@ -5443,11 +5443,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.7
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 9.6
             },
             {
               "nume": "Rata somaj",
@@ -5468,11 +5468,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 6.1
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": "-"
             },
             {
               "nume": "Rata somaj",
@@ -5498,11 +5498,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2.5
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 1.1
             },
             {
               "nume": "Rata somaj",
@@ -5523,11 +5523,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2.8
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -1.4
             },
             {
               "nume": "Rata somaj",
@@ -5548,11 +5548,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2.6
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -0.4
             },
             {
               "nume": "Rata somaj",
@@ -5573,11 +5573,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.3
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 1.1
             },
             {
               "nume": "Rata somaj",
@@ -5598,11 +5598,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.2
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 1.5
             },
             {
               "nume": "Rata somaj",
@@ -5623,11 +5623,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.1
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 1.6
             },
             {
               "nume": "Rata somaj",
@@ -5648,11 +5648,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1.3
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 2.3
             },
             {
               "nume": "Rata somaj",
@@ -5673,11 +5673,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1.6
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 1.8
             },
             {
               "nume": "Rata somaj",
@@ -5698,11 +5698,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2.7
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 1.3
             },
             {
               "nume": "Rata somaj",
@@ -5723,11 +5723,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1.1
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -4.4
             },
             {
               "nume": "Rata somaj",
@@ -5748,11 +5748,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2.8
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 4.3
             },
             {
               "nume": "Rata somaj",
@@ -5773,11 +5773,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 11.6
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": "-"
             },
             {
               "nume": "Rata somaj",
@@ -5803,11 +5803,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 3.9
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 5
             },
             {
               "nume": "Rata somaj",
@@ -5828,11 +5828,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 3.7
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 1.5
             },
             {
               "nume": "Rata somaj",
@@ -5853,11 +5853,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.8
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 0.9
             },
             {
               "nume": "Rata somaj",
@@ -5878,11 +5878,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.1
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 3.9
             },
             {
               "nume": "Rata somaj",
@@ -5903,11 +5903,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": -0.7
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 4.5
             },
             {
               "nume": "Rata somaj",
@@ -5928,7 +5928,7 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": -0.2
             },
             {
               "nume": "PIB",
@@ -5953,11 +5953,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1.6
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 5.1
             },
             {
               "nume": "Rata somaj",
@@ -5978,11 +5978,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1.2
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 5.9
             },
             {
               "nume": "Rata somaj",
@@ -6003,11 +6003,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2.1
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 4.5
             },
             {
               "nume": "Rata somaj",
@@ -6028,11 +6028,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 3.7
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -1.8
             },
             {
               "nume": "Rata somaj",
@@ -6053,11 +6053,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 5.2
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 7.3
             },
             {
               "nume": "Rata somaj",
@@ -6078,11 +6078,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 13.2
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": "-"
             },
             {
               "nume": "Rata somaj",
@@ -6108,11 +6108,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 3.6
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -1.6
             },
             {
               "nume": "Rata somaj",
@@ -6133,11 +6133,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2.8
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -3.7
             },
             {
               "nume": "Rata somaj",
@@ -6158,11 +6158,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.4
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -0.4
             },
             {
               "nume": "Rata somaj",
@@ -6183,11 +6183,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": -0.2
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 1.3
             },
             {
               "nume": "Rata somaj",
@@ -6208,11 +6208,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.5
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 2.2
             },
             {
               "nume": "Rata somaj",
@@ -6233,11 +6233,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.6
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 2.3
             },
             {
               "nume": "Rata somaj",
@@ -6258,11 +6258,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1.6
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 3.8
             },
             {
               "nume": "Rata somaj",
@@ -6283,7 +6283,7 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1.2
             },
             {
               "nume": "PIB",
@@ -6308,11 +6308,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.3
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 2.7
             },
             {
               "nume": "Rata somaj",
@@ -6333,11 +6333,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": -0.1
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -8.4
             },
             {
               "nume": "Rata somaj",
@@ -6358,11 +6358,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.9
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 5.2
             },
             {
               "nume": "Rata somaj",
@@ -6383,11 +6383,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 8.1
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": "-"
             },
             {
               "nume": "Rata somaj",
@@ -6413,11 +6413,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 5.8
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 5
             },
             {
               "nume": "Rata somaj",
@@ -6438,11 +6438,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 3.4
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 2.4
             },
             {
               "nume": "Rata somaj",
@@ -6463,11 +6463,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 3.2
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 0.6
             },
             {
               "nume": "Rata somaj",
@@ -6488,11 +6488,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1.4
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 4.5
             },
             {
               "nume": "Rata somaj",
@@ -6513,11 +6513,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": -0.4
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 3.6
             },
             {
               "nume": "Rata somaj",
@@ -6538,11 +6538,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": -1.1
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 3.4
             },
             {
               "nume": "Rata somaj",
@@ -6563,11 +6563,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1.1
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 8.8
             },
             {
               "nume": "Rata somaj",
@@ -6588,11 +6588,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 4.1
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 6.7
             },
             {
               "nume": "Rata somaj",
@@ -6613,11 +6613,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 3.9
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 4.4
             },
             {
               "nume": "Rata somaj",
@@ -6638,11 +6638,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2.3
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -3.1
             },
             {
               "nume": "Rata somaj",
@@ -6663,11 +6663,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 4.1
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 5.9
             },
             {
               "nume": "Rata somaj",
@@ -6688,11 +6688,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 12.0
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": "-"
             },
             {
               "nume": "Rata somaj",
@@ -6718,11 +6718,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 4.1
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 2.5
             },
             {
               "nume": "Rata somaj",
@@ -6743,11 +6743,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 3.7
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 1.1
             },
             {
               "nume": "Rata somaj",
@@ -6768,11 +6768,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1.5
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 0.5
             },
             {
               "nume": "Rata somaj",
@@ -6793,11 +6793,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": -0.1
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 2.6
             },
             {
               "nume": "Rata somaj",
@@ -6818,11 +6818,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": -0.3
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 5.1
             },
             {
               "nume": "Rata somaj",
@@ -6843,11 +6843,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": -0.5
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 1.8
             },
             {
               "nume": "Rata somaj",
@@ -6868,11 +6868,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1.4
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 2.8
             },
             {
               "nume": "Rata somaj",
@@ -6893,11 +6893,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2.5
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 3.9
             },
             {
               "nume": "Rata somaj",
@@ -6918,11 +6918,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2.8
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 2.4
             },
             {
               "nume": "Rata somaj",
@@ -6943,11 +6943,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -3.5
             },
             {
               "nume": "Rata somaj",
@@ -6968,11 +6968,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2.8
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 3.2
             },
             {
               "nume": "Rata somaj",
@@ -6993,11 +6993,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 12.1
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": "-"
             },
             {
               "nume": "Rata somaj",
@@ -7023,11 +7023,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2.1
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 0.7
             },
             {
               "nume": "Rata somaj",
@@ -7048,11 +7048,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2.8
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -2.8
             },
             {
               "nume": "Rata somaj",
@@ -7073,11 +7073,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1.9
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -1.2
             },
             {
               "nume": "Rata somaj",
@@ -7098,11 +7098,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.4
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 2.7
             },
             {
               "nume": "Rata somaj",
@@ -7123,11 +7123,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": -0.8
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 2.1
             },
             {
               "nume": "Rata somaj",
@@ -7148,11 +7148,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": -0.2
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 3.1
             },
             {
               "nume": "Rata somaj",
@@ -7173,11 +7173,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1.6
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 4.7
             },
             {
               "nume": "Rata somaj",
@@ -7198,11 +7198,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1.9
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 4.1
             },
             {
               "nume": "Rata somaj",
@@ -7223,11 +7223,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1.7
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 2.7
             },
             {
               "nume": "Rata somaj",
@@ -7248,11 +7248,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": -0.3
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -5
             },
             {
               "nume": "Rata somaj",
@@ -7273,11 +7273,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 7.9
             },
             {
               "nume": "Rata somaj",
@@ -7298,11 +7298,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 9.3
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": "-"
             },
             {
               "nume": "Rata somaj",
@@ -7332,7 +7332,7 @@
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -1.2
             },
             {
               "nume": "Rata somaj",
@@ -7353,11 +7353,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2.4
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -3
             },
             {
               "nume": "Rata somaj",
@@ -7378,11 +7378,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1.5
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -1.1
             },
             {
               "nume": "Rata somaj",
@@ -7403,11 +7403,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": -0.2
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 1.7
             },
             {
               "nume": "Rata somaj",
@@ -7428,11 +7428,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": -0.6
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 3.9
             },
             {
               "nume": "Rata somaj",
@@ -7453,7 +7453,7 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": -0.3
             },
             {
               "nume": "PIB",
@@ -7478,11 +7478,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 2.7
             },
             {
               "nume": "Rata somaj",
@@ -7503,11 +7503,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1.7
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 1.8
             },
             {
               "nume": "Rata somaj",
@@ -7528,11 +7528,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.8
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 1.3
             },
             {
               "nume": "Rata somaj",
@@ -7553,11 +7553,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": -0.3
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -11.8
             },
             {
               "nume": "Rata somaj",
@@ -7582,7 +7582,7 @@
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 5.4
             },
             {
               "nume": "Rata somaj",
@@ -7603,11 +7603,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 8.3
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": "-"
             },
             {
               "nume": "Rata somaj",
@@ -7633,11 +7633,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1.4
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 2.4
             },
             {
               "nume": "Rata somaj",
@@ -7658,11 +7658,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.9
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -1.3
             },
             {
               "nume": "Rata somaj",
@@ -7683,11 +7683,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.4
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 0.3
             },
             {
               "nume": "Rata somaj",
@@ -7708,11 +7708,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.2
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 1.6
             },
             {
               "nume": "Rata somaj",
@@ -7733,11 +7733,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.7
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 3.4
             },
             {
               "nume": "Rata somaj",
@@ -7758,11 +7758,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1.1
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 0.8
             },
             {
               "nume": "Rata somaj",
@@ -7783,11 +7783,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1.9
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 1.2
             },
             {
               "nume": "Rata somaj",
@@ -7808,11 +7808,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 0.8
             },
             {
               "nume": "Rata somaj",
@@ -7833,11 +7833,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1.7
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 1
             },
             {
               "nume": "Rata somaj",
@@ -7858,11 +7858,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.7
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -2.9
             },
             {
               "nume": "Rata somaj",
@@ -7883,11 +7883,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2.7
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 4.4
             },
             {
               "nume": "Rata somaj",
@@ -7908,11 +7908,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 8.1
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": "-"
             },
             {
               "nume": "Rata somaj",
@@ -7938,11 +7938,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 3.9
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 2.2
             },
             {
               "nume": "Rata somaj",
@@ -7963,11 +7963,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 5.7
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -0.7
             },
             {
               "nume": "Rata somaj",
@@ -7988,11 +7988,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 1.7
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 2.1
             },
             {
               "nume": "Rata somaj",
@@ -8013,11 +8013,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 4.5
             },
             {
               "nume": "Rata somaj",
@@ -8038,11 +8038,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.1
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 4
             },
             {
               "nume": "Rata somaj",
@@ -8063,11 +8063,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 0.4
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 2.5
             },
             {
               "nume": "Rata somaj",
@@ -8088,11 +8088,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2.4
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 4.5
             },
             {
               "nume": "Rata somaj",
@@ -8113,11 +8113,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 2.9
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 5.5
             },
             {
               "nume": "Rata somaj",
@@ -8138,11 +8138,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 3.4
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 4.9
             },
             {
               "nume": "Rata somaj",
@@ -8163,11 +8163,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 3.4
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": -4.3
             },
             {
               "nume": "Rata somaj",
@@ -8188,11 +8188,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 5.2
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": 7.6
             },
             {
               "nume": "Rata somaj",
@@ -8213,11 +8213,11 @@
           "indicatori": [
             {
               "nume": "Inflatie",
-              "valoare": 3
+              "valoare": 15.3
             },
             {
               "nume": "PIB",
-              "valoare": 3
+              "valoare": "-"
             },
             {
               "nume": "Rata somaj",

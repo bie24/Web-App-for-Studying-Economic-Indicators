@@ -1,0 +1,17 @@
+.table {
+  position: absolute;
+  top: -1rem;
+  width: 50rem;
+  height: 25rem;
+  left: 30rem;
+  text-align: center;
+  font-size: 0.8rem;
+
+  background-color: rgba(255, 255, 255, 0.166);
+  margin-inline-start: 1rem;
+  padding: 0.1rem 1.8rem;
+  border-radius: 2rem;
+  backdrop-filter: blur(25px);
+  border: 0.12rem solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 0 2.5rem rgba(8, 7, 16, 0.6);
+}
