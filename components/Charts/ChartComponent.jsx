@@ -118,7 +118,7 @@ export default function ChartComponent({ country, indicator, data }) {
         width={500}
         className={styles.ChartComponent}
       />
-      <button onClick={exportChartAsJpg}>Export as JPG</button>
+      {/* <button onClick={exportChartAsJpg}>Export as JPG</button> */}
     </div>
   );
 }
