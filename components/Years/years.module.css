@@ -26,11 +26,11 @@
 /* } */
 .display {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 1rem;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.5rem 1.5rem;
 
   position: absolute;
-  top: -7rem;
+  top: 2rem;
 
   font-size: 0.64rem;
   text-align: center;

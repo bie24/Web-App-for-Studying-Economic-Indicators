@@ -14,6 +14,7 @@ import icon2ind from "../../icons/icon2ind.png";
 import icon3ind from "../../icons/icon3ind.png";
 import icon4ind from "../../icons/icon4ind.png";
 import icon5ind from "../../icons/icon5ind.png";
+import iconHelp from "../../public/help.png";
 
 function getArrowDirectionAndDiff(indicators, indicatorName, year) {
   const indicator = indicators.find(
@@ -22,7 +23,7 @@ function getArrowDirectionAndDiff(indicators, indicatorName, year) {
   const indicatorAnPrecedent = country.ani
     .find((y) => y.an === year - 1)
     ?.indicatori.find((indicator) => indicator.nume === indicatorName);
-
+  const isHelpOpen = indicator?.isHelpOpen || false;
   if (indicator !== undefined && indicatorAnPrecedent !== undefined) {
     const arrowDirection =
       indicator.valoare > indicatorAnPrecedent.valoare ? "up" : "down";
@@ -37,28 +38,32 @@ function getArrowDirectionAndDiff(indicators, indicatorName, year) {
 export default function Indicators({ country, year, onClose }) {
   const [indicators, setIndicators] = useState([]);
 
-  // useEffect(() => {
-  //   const selectedYear = country.ani.find((y) => y.an === year);
-  //   setIndicators(selectedYear.indicatori);
-  //   // setShowCountriesAndYears(false);
-  // }, [country, year]);
   useEffect(() => {
     const selectedYear = country.ani.find((y) => y.an === year);
     if (selectedYear) {
       setIndicators(selectedYear.indicatori);
     }
   }, [country, year]);
+  const [helpOpen, setHelpOpen] = useState({});
+  function toggleHelp(indicatorName) {
+    setIndicators((prevIndicators) => {
+      return prevIndicators.map((indicator) => {
+        if (indicator.nume === indicatorName) {
+          return { ...indicator, isHelpOpen: !indicator.isHelpOpen };
+        }
+        return indicator;
+      });
+    });
+  }
 
   function getArrowDirection(valoareAnPrecedentIndicator, valoareIndicator) {
     let arrowDirection = "";
     if (
       valoareAnPrecedentIndicator !== undefined &&
-      valoareIndicator?.valoare !== valoareAnPrecedentIndicator.valoare
+      valoareIndicator?.valoare !== valoareAnPrecedentIndicator
     ) {
       arrowDirection =
-        valoareIndicator?.valoare > valoareAnPrecedentIndicator.valoare
-          ? "up"
-          : "down";
+        valoareIndicator?.valoare > valoareAnPrecedentIndicator ? "up" : "down";
     }
     return arrowDirection;
   }
@@ -71,20 +76,28 @@ export default function Indicators({ country, year, onClose }) {
       ?.indicatori.find((indicator) => indicator.nume === indicatorName);
 
     const dif = indicatorAnPrecedent
-      ? (indicator?.valoare - indicatorAnPrecedent.valoare).toFixed(1)
+      ? (
+          ((indicator?.valoare - indicatorAnPrecedent.valoare) /
+            Math.abs(indicatorAnPrecedent.valoare)) *
+          100
+        ).toFixed(1)
       : undefined;
 
-    const arrowDirection = getArrowDirection(indicatorAnPrecedent, indicator);
-
+    const arrowDirection = getArrowDirection(
+      indicatorAnPrecedent?.valoare,
+      indicator?.valoare
+    );
+    const isHelpOpen = indicator?.isHelpOpen || false;
     const absDif = indicatorAnPrecedent
       ? Math.abs(indicator?.valoare - indicatorAnPrecedent.valoare).toFixed(1)
       : undefined;
 
     return {
       indicator,
-      dif,
+      dif: dif !== undefined ? parseFloat(dif).toFixed(1) : undefined,
       arrowDirection,
       absDif,
+      isHelpOpen,
     };
   }
   const inflatieData = getIndicatorData(indicators, country, year, "Inflatie");
@@ -105,7 +118,7 @@ export default function Indicators({ country, year, onClose }) {
     indicators,
     country,
     year,
-    "Indicator"
+    "Populatie"
   );
   return (
     <div className={styles.allData}>
@@ -118,9 +131,15 @@ export default function Indicators({ country, year, onClose }) {
       {/* INFLATIE */}
       <div className={styles.displayInd}>
         <div className={styles.nameAndDots}>
-          <h3 className={styles.indName}>Inflatie</h3>
-          <button className={styles.dots}>...</button>
+          <h3 className={styles.indName}>Inflație</h3>
+          <button
+            className={styles.dots}
+            onClick={() => toggleHelp("Inflatie")}
+          >
+            <Image src={iconHelp} className={styles.dots} />
+          </button>
         </div>
+
         <div className={styles.valueAndIcon}>
           <p className={styles.value}>
             {inflatieData.indicator?.valoare || "N/A"}
@@ -147,13 +166,26 @@ export default function Indicators({ country, year, onClose }) {
           )}
           {inflatieData.absDif}% fata de anul anterior
         </p>
+        {inflatieData.isHelpOpen && (
+          <div className={styles.helpContainer1}>
+            <p className={styles.text}>
+              Creșterea generală a prețurilor în economie pe o perioadă de timp.
+            </p>
+          </div>
+        )}
       </div>
 
       {/* PIB */}
       <div className={styles.displayInd2}>
         <div className={styles.nameAndDots}>
           <h3 className={styles.indName}>PIB</h3>
-          <button className={styles.dots}>...</button>
+          <button
+            className={styles.dots}
+            onClick={() => toggleHelp("Inflatie")}
+          >
+            {" "}
+            <Image src={iconHelp} className={styles.dots} />
+          </button>
         </div>
         <div className={styles.valueAndIcon}>
           <p className={styles.value}>{pibData.indicator?.valoare || "N/A"}</p>
@@ -179,13 +211,24 @@ export default function Indicators({ country, year, onClose }) {
           )}
           {pibData.absDif}% fata de anul anterior
         </p>
+        {pibData?.isHelpOpen && (
+          <div className={styles.helpContainer}>
+            <p>
+              Text about {nume} Indicator. Lorem ipsum dolor sit amet,
+              consectetur adipiscing elit.
+            </p>
+          </div>
+        )}
       </div>
 
       {/* RATA SOMAJ */}
       <div className={styles.displayInd3}>
         <div className={styles.nameAndDots}>
-          <h3 className={styles.indName}>Rata somaj</h3>
-          <button className={styles.dots}>...</button>
+          <h3 className={styles.indName}>Rată șomaj</h3>
+          <button className={styles.dots}>
+            {" "}
+            <Image src={iconHelp} className={styles.dots} />
+          </button>
         </div>
         <div className={styles.valueAndIcon}>
           <p className={styles.value}>
@@ -218,7 +261,10 @@ export default function Indicators({ country, year, onClose }) {
       <div className={styles.displayInd4}>
         <div className={styles.nameAndDots}>
           <h3 className={styles.indName}>Curs valutar</h3>
-          <button className={styles.dots}>...</button>
+          <button className={styles.dots}>
+            {" "}
+            <Image src={iconHelp} className={styles.dots} />
+          </button>
         </div>
         <div className={styles.valueAndIcon}>
           <p className={styles.value}>
@@ -252,8 +298,11 @@ export default function Indicators({ country, year, onClose }) {
       {/* indicator */}
       <div className={styles.displayInd5}>
         <div className={styles.nameAndDots}>
-          <h3 className={styles.indName}>Indicator</h3>
-          <button className={styles.dots}>...</button>
+          <h3 className={styles.indName}>Populație</h3>
+          <button className={styles.dots}>
+            {" "}
+            <Image src={iconHelp} className={styles.dots} />
+          </button>
         </div>
         <div className={styles.valueAndIcon}>
           <p className={styles.value}>
@@ -282,27 +331,13 @@ export default function Indicators({ country, year, onClose }) {
           {indicatorData.absDif}% fata de anul anterior
         </p>
       </div>
-      <div className={styles.displayInd6}></div>
+      {/* <div className={styles.displayInd6}></div>
       <div className={styles.displayInd7}></div>
       <div className={styles.displayInd8}></div>
       <div className={styles.displayInd9}></div>
       <div className={styles.displayInd10}></div>
       <div className={styles.displayInd11}></div>
-      <div className={styles.displayInd12}></div>
+      <div className={styles.displayInd12}></div> */}
     </div>
   );
 }
-//   return (
-//     <div>
-//       {selectedYear && (
-//         <div className={styles.indicators}>
-//           {selectedYear.indicatori.map((indicator) => (
-//             <div key={indicator.nume}>
-//               <h4>{indicator.nume}</h4>
-//               <p>{indicator.valoare}</p>
-//             </div>
-//           ))}
-//         </div>
-//       )}
-//     </div>
-//   );

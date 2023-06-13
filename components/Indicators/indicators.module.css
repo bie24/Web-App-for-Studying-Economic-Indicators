@@ -22,10 +22,10 @@
   padding: 1rem;
   margin: 1rem;
   margin-inline-start: 4rem;
-  top: -9rem;
+  top: -6rem;
   color: white;
 }
-.dot {
+.help {
   font-size: 0.75rem;
 }
 .displayInd {
@@ -47,10 +47,10 @@
 
   position: absolute;
   width: 250px;
-  height: 140px;
+  height: 250px;
   left: 100px;
   /* -124 */
-  top: -20px;
+  top: 20px;
 
   background: #07253e;
   border: 2px solid rgba(255, 255, 255, 0.5);
@@ -65,9 +65,9 @@
 
   position: absolute;
   width: 250px;
-  height: 140px;
+  height: 250px;
   left: 360px;
-  top: -20px;
+  top: 20px;
 
   background: #07253e;
   border: 2px solid rgba(255, 255, 255, 0.5);
@@ -82,9 +82,9 @@
 
   position: absolute;
   width: 250px;
-  height: 140px;
+  height: 250px;
   left: 620px;
-  top: -20px;
+  top: 20px;
 
   background: #07253e;
   border: 2px solid rgba(255, 255, 255, 0.5);
@@ -99,9 +99,9 @@
 
   position: absolute;
   width: 250px;
-  height: 140px;
+  height: 250px;
   left: 880px;
-  top: -20px;
+  top: 20px;
 
   background: #07253e;
   border: 2px solid rgba(255, 255, 255, 0.5);
@@ -116,9 +116,9 @@
 
   position: absolute;
   width: 250px;
-  height: 140px;
+  height: 250px;
   left: 1145px;
-  top: -20px;
+  top: 20px;
 
   background: #07253e;
   border: 2px solid rgba(255, 255, 255, 0.5);
@@ -250,16 +250,18 @@
 }
 
 .indName {
-  font-size: 1rem;
+  font-size: 1.45rem;
   text-align: left;
-  color: rgba(255, 255, 255, 0.637);
+  color: rgba(255, 255, 255, 0.839);
 }
 
 .dots {
+  height: 2rem;
+  width: 2rem;
   background-color: transparent;
   border: none;
   color: rgba(255, 255, 255, 0.637);
-  font-size: 1.5rem;
+  font-size: 2rem;
   margin-block-end: 0.5rem;
   margin-inline-end: 1rem;
   padding: 0;
@@ -271,27 +273,73 @@
 .nameAndDots {
   display: flex;
   justify-content: space-between;
+  align-items: center;
+  align-content: center;
   margin: 0rem 1rem;
   align-items: center;
 }
 
 .value {
   text-align: left;
-  margin: 0rem 1rem;
-  font-size: 2rem;
+  margin: 2rem 1rem;
+  font-size: 2.6rem;
+  font-weight: bold;
 }
 .valueDif {
   text-align: left;
-  margin: 0.5rem 1rem;
+  margin: 0rem 1rem;
   font-size: 0.8rem;
   color: rgba(255, 255, 255, 0.637);
 }
 .icon1ind {
   height: 3rem;
   width: 3rem;
-  margin-inline-end: 1rem;
+  margin: 2rem 1rem;
 }
 .valueAndIcon {
   display: flex;
   justify-content: space-between;
+  align-items: center;
+}
+
+.helpContainer1 {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 250px;
+  height: 100px;
+  left: -50px;
+  /* -124 */
+  top: 270px;
+
+  background: #07253e;
+  border: 2px solid rgba(255, 255, 255, 0.5);
+  box-shadow: 0px 4px 20px 1px rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(10px);
+  /* Note: backdrop-filter has minimal browser support */
+  margin-inline-start: 3rem;
+  border-radius: 23px;
+}
+.helpContainer2 {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 250px;
+  height: 100px;
+  left: -100px;
+  /* -124 */
+  top: 270px;
+
+  background: #07253e;
+  border: 2px solid rgba(255, 255, 255, 0.5);
+  box-shadow: 0px 4px 20px 1px rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(10px);
+  /* Note: backdrop-filter has minimal browser support */
+  margin-inline-start: 3rem;
+  border-radius: 23px;
+}
+.text {
+  font-size: 1rem;
+  margin: 1rem;
+  text-align: center;
 }
