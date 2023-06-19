@@ -11,7 +11,7 @@ export default function MapChart({ isBlurred }) {
       <iframe
         src="/staticMap.html"
         className={styles.iframe}
-        style={{ height: "100vh" }} // setati inaltimea iframe-ului la inaltimea vizibila a ecranului
+        style={{ height: "100vh" }}
       ></iframe>
     </div>
   );

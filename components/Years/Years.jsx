@@ -17,7 +17,7 @@ export default function Years({ country, onYearClick }) {
   };
 
   useEffect(() => {
-    const { ani } = country; // extract the ani property
+    const { ani } = country;
     setYears(ani);
   }, [country]);
 

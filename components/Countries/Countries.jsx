@@ -12,7 +12,6 @@ export default function Countries() {
   const [countries, setCountries] = useState([]);
   const [selectedCountry, setSelectedCountry] = useState(null);
   const [selectedYear, setSelectedYear] = useState(null);
-  const [showIndicators, setShowIndicators] = useState(false);
 
   useEffect(() => {
     const fetchData = async () => {

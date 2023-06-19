@@ -7,8 +7,6 @@ import LeftButtons from "../components/LeftButtons/LeftButtons";
 import Countries from "../components/Countries/Countries";
 import MapChart from "../components/Map/MapChart";
 
-// import MapChart from "../components/Map/MapChart";
-// import Map from "../map/uemap.png";
 import Logo from "../icons/logo.svg";
 import Years from "@/components/Years/Years";
 

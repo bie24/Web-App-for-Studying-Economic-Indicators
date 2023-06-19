@@ -83,9 +83,8 @@ export default function ChartComponent({ country, indicator, data }) {
     },
     layout: {
       padding: {
-        right: 1, // Ajustați acest număr pentru a stabili spațiul din dreapta al graficului
-        top: 20, // Adăugați spațiul dorit între titlu și grafic (valoarea poate fi ajustată)
-        // bottom: 10,
+        right: 1,
+        top: 20,
       },
     },
   };
@@ -118,7 +117,6 @@ export default function ChartComponent({ country, indicator, data }) {
         width={500}
         className={styles.ChartComponent}
       />
-      {/* <button onClick={exportChartAsJpg}>Export as JPG</button> */}
     </div>
   );
 }

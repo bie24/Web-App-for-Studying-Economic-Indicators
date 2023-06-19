@@ -5,7 +5,6 @@ import { collection, getDocs } from "firebase/firestore";
 import styles from "./countries.module.css";
 import Years from "../Years/Years";
 import Indicators from "../Indicators/Indicators";
-// import date2 from "./date.json";
 import date from "../../public/date.json";
 import IndicatorsBar from "../Indicators/IndicatorsBar";
 

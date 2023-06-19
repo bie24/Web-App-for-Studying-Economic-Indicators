@@ -16,25 +16,6 @@ import icon4ind from "../../icons/icon4ind.png";
 import icon5ind from "../../icons/icon5ind.png";
 import iconHelp from "../../public/help.png";
 
-function getArrowDirectionAndDiff(indicators, indicatorName, year) {
-  const indicator = indicators.find(
-    (indicator) => indicator.nume === indicatorName
-  );
-  const indicatorAnPrecedent = country.ani
-    .find((y) => y.an === year - 1)
-    ?.indicatori.find((indicator) => indicator.nume === indicatorName);
-  const isHelpOpen = indicator?.isHelpOpen || false;
-  if (indicator !== undefined && indicatorAnPrecedent !== undefined) {
-    const arrowDirection =
-      indicator.valoare > indicatorAnPrecedent.valoare ? "up" : "down";
-    const diff = (indicator.valoare - indicatorAnPrecedent.valoare).toFixed(1);
-
-    return { arrowDirection, diff };
-  }
-
-  return undefined;
-}
-
 export default function Indicators({ country, year, onClose }) {
   const [indicators, setIndicators] = useState([]);
 
@@ -56,18 +37,19 @@ export default function Indicators({ country, year, onClose }) {
     });
   }
 
-  function getArrowDirection(valoareAnPrecedentIndicator, valoareIndicator) {
+  function getArrowDirection(indicator, indicatorAnPrecedent) {
     let arrowDirection = "";
     if (
-      valoareAnPrecedentIndicator !== undefined &&
-      valoareIndicator?.valoare !== valoareAnPrecedentIndicator
+      indicatorAnPrecedent !== undefined &&
+      indicator !== undefined &&
+      indicator.valoare !== indicatorAnPrecedent.valoare
     ) {
       arrowDirection =
-        valoareIndicator?.valoare > valoareAnPrecedentIndicator ? "up" : "down";
+        indicator.valoare > indicatorAnPrecedent.valoare ? "up" : "down";
     }
     return arrowDirection;
   }
-  function getIndicatorData(indicators, country, year, indicatorName) {
+  function getIndicatorData(indicators, cuntry, year, indicatorName) {
     const indicator = indicators.find(
       (indicator) => indicator.nume === indicatorName
     );
@@ -75,31 +57,67 @@ export default function Indicators({ country, year, onClose }) {
       .find((y) => y.an === year - 1)
       ?.indicatori.find((indicator) => indicator.nume === indicatorName);
 
-    const dif = indicatorAnPrecedent
-      ? (
-          ((indicator?.valoare - indicatorAnPrecedent.valoare) /
-            Math.abs(indicatorAnPrecedent.valoare)) *
-          100
-        ).toFixed(1)
-      : undefined;
-
-    const arrowDirection = getArrowDirection(
-      indicatorAnPrecedent?.valoare,
-      indicator?.valoare
-    );
+    const arrowDirection = getArrowDirection(indicatorAnPrecedent?.valoare);
     const isHelpOpen = indicator?.isHelpOpen || false;
-    const absDif = indicatorAnPrecedent
-      ? Math.abs(indicator?.valoare - indicatorAnPrecedent.valoare).toFixed(1)
-      : undefined;
+    let absDif;
+
+    if (indicatorAnPrecedent) {
+      if (
+        typeof indicator?.valoare === "string" ||
+        typeof indicatorAnPrecedent.valoare === "string"
+      ) {
+        const indicatorValoareMatches = indicator?.valoare.match(/[\d.,]+/g);
+        const indicatorAnPrecedentValoareMatches =
+          indicatorAnPrecedent.valoare.match(/[\d.,]+/g);
+
+        if (
+          !indicatorValoareMatches ||
+          !indicatorAnPrecedentValoareMatches ||
+          indicatorValoareMatches.length === 0 ||
+          indicatorAnPrecedentValoareMatches.length === 0
+        ) {
+          absDif = 0;
+        } else {
+          const parsedIndicatorValoare = parseFloat(
+            indicatorValoareMatches[0].replace(",", "")
+          );
+          const parsedIndicatorAnPrecedentValoare = parseFloat(
+            indicatorAnPrecedentValoareMatches[0].replace(",", "")
+          );
+
+          if (
+            isNaN(parsedIndicatorValoare) ||
+            isNaN(parsedIndicatorAnPrecedentValoare)
+          ) {
+            absDif = 0;
+          } else {
+            absDif = (
+              ((parsedIndicatorValoare - parsedIndicatorAnPrecedentValoare) /
+                parsedIndicatorAnPrecedentValoare) *
+              100
+            ).toFixed(1);
+          }
+        }
+      } else {
+        absDif = (
+          ((parseFloat(indicator?.valoare) -
+            parseFloat(indicatorAnPrecedent.valoare)) /
+            parseFloat(indicatorAnPrecedent.valoare)) *
+          100
+        ).toFixed(1);
+      }
+    } else {
+      absDif = undefined;
+    }
 
     return {
       indicator,
-      dif: dif !== undefined ? parseFloat(dif).toFixed(1) : undefined,
       arrowDirection,
       absDif,
       isHelpOpen,
     };
   }
+
   const inflatieData = getIndicatorData(indicators, country, year, "Inflatie");
   const pibData = getIndicatorData(indicators, country, year, "PIB");
   const rataSomajData = getIndicatorData(
@@ -114,7 +132,7 @@ export default function Indicators({ country, year, onClose }) {
     year,
     "Curs valutar"
   );
-  const indicatorData = getIndicatorData(
+  const populatieData = getIndicatorData(
     indicators,
     country,
     year,
@@ -131,7 +149,7 @@ export default function Indicators({ country, year, onClose }) {
       {/* INFLATIE */}
       <div className={styles.displayInd}>
         <div className={styles.nameAndDots}>
-          <h3 className={styles.indName}>Inflație</h3>
+          <h3 className={styles.indName}>Rată inflație</h3>
           <button
             className={styles.dots}
             onClick={() => toggleHelp("Inflatie")}
@@ -179,10 +197,7 @@ export default function Indicators({ country, year, onClose }) {
       <div className={styles.displayInd2}>
         <div className={styles.nameAndDots}>
           <h3 className={styles.indName}>PIB</h3>
-          <button
-            className={styles.dots}
-            onClick={() => toggleHelp("Inflatie")}
-          >
+          <button className={styles.dots} onClick={() => toggleHelp("PIB")}>
             {" "}
             <Image src={iconHelp} className={styles.dots} />
           </button>
@@ -212,10 +227,10 @@ export default function Indicators({ country, year, onClose }) {
           {pibData.absDif}% fata de anul anterior
         </p>
         {pibData?.isHelpOpen && (
-          <div className={styles.helpContainer}>
-            <p>
-              Text about {nume} Indicator. Lorem ipsum dolor sit amet,
-              consectetur adipiscing elit.
+          <div className={styles.helpContainer2}>
+            <p className={styles.text}>
+              Valoarea totală a bunurilor și serviciilor produse în economie
+              într-o o perioadă de timp.
             </p>
           </div>
         )}
@@ -225,7 +240,10 @@ export default function Indicators({ country, year, onClose }) {
       <div className={styles.displayInd3}>
         <div className={styles.nameAndDots}>
           <h3 className={styles.indName}>Rată șomaj</h3>
-          <button className={styles.dots}>
+          <button
+            className={styles.dots}
+            onClick={() => toggleHelp("Rata somaj")}
+          >
             {" "}
             <Image src={iconHelp} className={styles.dots} />
           </button>
@@ -256,12 +274,23 @@ export default function Indicators({ country, year, onClose }) {
           )}
           {rataSomajData.absDif}% fata de anul anterior
         </p>
+        {rataSomajData?.isHelpOpen && (
+          <div className={styles.helpContainer3}>
+            <p className={styles.text}>
+              Procentul de persoane disponibile și în căutarea unui loc de muncă
+              în forța de muncă totală.
+            </p>
+          </div>
+        )}
       </div>
       {/* CURS VALUTAR */}
       <div className={styles.displayInd4}>
         <div className={styles.nameAndDots}>
           <h3 className={styles.indName}>Curs valutar</h3>
-          <button className={styles.dots}>
+          <button
+            className={styles.dots}
+            onClick={() => toggleHelp("Curs valutar")}
+          >
             {" "}
             <Image src={iconHelp} className={styles.dots} />
           </button>
@@ -294,32 +323,42 @@ export default function Indicators({ country, year, onClose }) {
           )}
           {cursValutarData.absDif}% fata de anul anterior
         </p>
+        {cursValutarData?.isHelpOpen && (
+          <div className={styles.helpContainer4}>
+            <p className={styles.text}>
+              Prețul unei valute în raport cu alta în piața internațională.
+            </p>
+          </div>
+        )}
       </div>
-      {/* indicator */}
+      {/* POPULATIE */}
       <div className={styles.displayInd5}>
         <div className={styles.nameAndDots}>
           <h3 className={styles.indName}>Populație</h3>
-          <button className={styles.dots}>
+          <button
+            className={styles.dots}
+            onClick={() => toggleHelp("Populatie")}
+          >
             {" "}
             <Image src={iconHelp} className={styles.dots} />
           </button>
         </div>
         <div className={styles.valueAndIcon}>
-          <p className={styles.value}>
-            {indicatorData.indicator?.valoare || "N/A"}
+          <p className={styles.value2}>
+            {populatieData.indicator?.valoare || "N/A"}
           </p>
           <Image src={icon5ind} className={styles.icon1ind} />{" "}
         </div>
 
         <p className={styles.valueDif}>
-          {indicatorData.arrowDirection !== "" && (
+          {populatieData.arrowDirection !== "" && (
             <svg
               width="10"
               height="10"
               viewBox="0 0 20 20"
               style={{
                 transform:
-                  indicatorData.arrowDirection === "up" ? "" : "rotate(180deg)",
+                  populatieData.arrowDirection === "up" ? "" : "rotate(180deg)",
                 display: "inline-block",
                 marginRight: "5px",
                 fill: "rgba(255, 255, 255, 0.637)",
@@ -328,16 +367,16 @@ export default function Indicators({ country, year, onClose }) {
               <polygon points="10,0 20,20 0,20" />
             </svg>
           )}
-          {indicatorData.absDif}% fata de anul anterior
+          {populatieData.absDif}% fata de anul anterior
         </p>
+        {populatieData?.isHelpOpen && (
+          <div className={styles.helpContainer5}>
+            <p className={styles.text}>
+              Numărul total de locuitori ai unei țări sau regiuni.
+            </p>
+          </div>
+        )}
       </div>
-      {/* <div className={styles.displayInd6}></div>
-      <div className={styles.displayInd7}></div>
-      <div className={styles.displayInd8}></div>
-      <div className={styles.displayInd9}></div>
-      <div className={styles.displayInd10}></div>
-      <div className={styles.displayInd11}></div>
-      <div className={styles.displayInd12}></div> */}
     </div>
   );
 }
