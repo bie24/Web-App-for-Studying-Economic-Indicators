@@ -168,7 +168,7 @@ export default function Indicators({ country, year, onClose }) {
           <h3 className={styles.indName}>Rată inflație</h3>
           <button
             className={styles.dots}
-            onClick={() => toggleHelp("Inflatie")}
+            onClick={() => toggleHelp("Rata inflatie")}
           >
             <Image src={iconHelp} className={styles.dots} />
           </button>
