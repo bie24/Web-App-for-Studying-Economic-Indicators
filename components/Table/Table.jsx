@@ -24,7 +24,7 @@ export default function Table({ country }) {
       let cols = rows[i].querySelectorAll("td, th");
       let row = [];
       for (let j = 0; j < cols.length; j++) {
-        row.push(cols[j].innerText);
+        row.push(decodeURIComponent(cols[j].textContent));
       }
       csv.push(row.join(","));
     }
@@ -33,7 +33,7 @@ export default function Table({ country }) {
     let csvFile = new Blob([csv.join("\n")], { type: "text/csv" });
     let link = document.createElement("a");
     link.href = window.URL.createObjectURL(csvFile);
-    link.download = `${country.nume}.csv`;
+    link.download = `${decodeURIComponent(country.nume)}.csv`;
     link.click();
   }, []);
 

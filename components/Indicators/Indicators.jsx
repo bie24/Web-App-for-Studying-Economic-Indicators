@@ -37,19 +37,22 @@ export default function Indicators({ country, year, onClose }) {
     });
   }
 
-  function getArrowDirection(indicator, indicatorAnPrecedent) {
+  function getArrowDirection(valoareAnPrecedentIndicator, valoareIndicator) {
     let arrowDirection = "";
+
+    const valoareAnPrecedent = parseFloat(valoareAnPrecedentIndicator);
+    const valoareCurenta = parseFloat(valoareIndicator);
+
     if (
-      indicatorAnPrecedent !== undefined &&
-      indicator !== undefined &&
-      indicator.valoare !== indicatorAnPrecedent.valoare
+      !isNaN(valoareAnPrecedent) &&
+      !isNaN(valoareCurenta) &&
+      valoareCurenta !== valoareAnPrecedent
     ) {
-      arrowDirection =
-        indicator.valoare > indicatorAnPrecedent.valoare ? "up" : "down";
+      arrowDirection = valoareCurenta > valoareAnPrecedent ? "up" : "down";
     }
     return arrowDirection;
   }
-  function getIndicatorData(indicators, cuntry, year, indicatorName) {
+  function getIndicatorData(indicators, country, year, indicatorName) {
     const indicator = indicators.find(
       (indicator) => indicator.nume === indicatorName
     );
@@ -57,58 +60,66 @@ export default function Indicators({ country, year, onClose }) {
       .find((y) => y.an === year - 1)
       ?.indicatori.find((indicator) => indicator.nume === indicatorName);
 
-    const arrowDirection = getArrowDirection(indicatorAnPrecedent?.valoare);
     const isHelpOpen = indicator?.isHelpOpen || false;
     let absDif;
-
+    let parsedIndicatorValoare, parsedIndicatorAnPrecedentValoare;
     if (indicatorAnPrecedent) {
       if (
         typeof indicator?.valoare === "string" ||
         typeof indicatorAnPrecedent.valoare === "string"
       ) {
-        const indicatorValoareMatches = indicator?.valoare.match(/[\d.,]+/g);
-        const indicatorAnPrecedentValoareMatches =
-          indicatorAnPrecedent.valoare.match(/[\d.,]+/g);
+        parsedIndicatorValoare = parseFloat(
+          indicator?.valoare.replace(/\s/g, "").replace(",", ".")
+        );
+        parsedIndicatorAnPrecedentValoare = parseFloat(
+          indicatorAnPrecedent.valoare.replace(/\s/g, "").replace(",", ".")
+        );
 
         if (
-          !indicatorValoareMatches ||
-          !indicatorAnPrecedentValoareMatches ||
-          indicatorValoareMatches.length === 0 ||
-          indicatorAnPrecedentValoareMatches.length === 0
+          isNaN(parsedIndicatorValoare) ||
+          isNaN(parsedIndicatorAnPrecedentValoare)
         ) {
           absDif = 0;
         } else {
-          const parsedIndicatorValoare = parseFloat(
-            indicatorValoareMatches[0].replace(",", "")
-          );
-          const parsedIndicatorAnPrecedentValoare = parseFloat(
-            indicatorAnPrecedentValoareMatches[0].replace(",", "")
-          );
-
-          if (
-            isNaN(parsedIndicatorValoare) ||
-            isNaN(parsedIndicatorAnPrecedentValoare)
-          ) {
-            absDif = 0;
-          } else {
-            absDif = (
-              ((parsedIndicatorValoare - parsedIndicatorAnPrecedentValoare) /
-                parsedIndicatorAnPrecedentValoare) *
-              100
-            ).toFixed(1);
-          }
+          absDif = (
+            ((parsedIndicatorValoare - parsedIndicatorAnPrecedentValoare) /
+              parsedIndicatorAnPrecedentValoare) *
+            100
+          ).toFixed(1);
         }
       } else {
-        absDif = (
-          ((parseFloat(indicator?.valoare) -
-            parseFloat(indicatorAnPrecedent.valoare)) /
-            parseFloat(indicatorAnPrecedent.valoare)) *
-          100
-        ).toFixed(1);
+        parsedIndicatorValoare = parseFloat(indicator?.valoare);
+        parsedIndicatorAnPrecedentValoare = parseFloat(
+          indicatorAnPrecedent.valoare
+        );
+        absDif = Math.abs(
+          (
+            ((parsedIndicatorValoare - parsedIndicatorAnPrecedentValoare) /
+              parsedIndicatorAnPrecedentValoare) *
+            100
+          ).toFixed(1)
+        );
       }
+
+      let result;
+      if (parseFloat(absDif) === 0) {
+        result = 0;
+      } else if (isNaN(parseFloat(absDif))) {
+        result = 0;
+      } else if (absDif < 0) {
+        result = Math.abs(absDif);
+      } else {
+        result = absDif;
+      }
+
+      absDif = result;
     } else {
       absDif = undefined;
     }
+    const arrowDirection = getArrowDirection(
+      parsedIndicatorAnPrecedentValoare,
+      parsedIndicatorValoare
+    );
 
     return {
       indicator,
@@ -118,7 +129,12 @@ export default function Indicators({ country, year, onClose }) {
     };
   }
 
-  const inflatieData = getIndicatorData(indicators, country, year, "Inflatie");
+  const inflatieData = getIndicatorData(
+    indicators,
+    country,
+    year,
+    "Rata inflatie"
+  );
   const pibData = getIndicatorData(indicators, country, year, "PIB");
   const rataSomajData = getIndicatorData(
     indicators,
@@ -164,26 +180,30 @@ export default function Indicators({ country, year, onClose }) {
           </p>
           <Image src={icon1ind} className={styles.icon1ind} />{" "}
         </div>
-
-        <p className={styles.valueDif}>
-          {inflatieData.arrowDirection !== "" && (
-            <svg
-              width="10"
-              height="10"
-              viewBox="0 0 20 20"
-              style={{
-                transform:
-                  inflatieData.arrowDirection === "up" ? "" : "rotate(180deg)",
-                display: "inline-block",
-                marginRight: "5px",
-                fill: "rgba(255, 255, 255, 0.637)",
-              }}
-            >
-              <polygon points="10,0 20,20 0,20" />
-            </svg>
-          )}
-          {inflatieData.absDif}% fata de anul anterior
-        </p>
+        {year !== 2011 && (
+          <p className={styles.valueDif}>
+            {inflatieData.arrowDirection !== "" && (
+              <svg
+                width="10"
+                height="10"
+                viewBox="0 0 20 20"
+                style={{
+                  transform:
+                    inflatieData.arrowDirection === "up"
+                      ? ""
+                      : "rotate(180deg)",
+                  display: "inline-block",
+                  marginRight: "5px",
+                  fill: "rgba(255, 255, 255, 0.637)",
+                }}
+              >
+                <polygon points="10,0 20,20 0,20" />
+              </svg>
+            )}
+            {inflatieData.absDif}
+            {year !== 2011 && "% fata de anul anterior"}
+          </p>
+        )}
         {inflatieData.isHelpOpen && (
           <div className={styles.helpContainer1}>
             <p className={styles.text}>
@@ -206,26 +226,27 @@ export default function Indicators({ country, year, onClose }) {
           <p className={styles.value}>{pibData.indicator?.valoare || "N/A"}</p>
           <Image src={icon2ind} className={styles.icon1ind} />{" "}
         </div>
-
-        <p className={styles.valueDif}>
-          {pibData.arrowDirection !== "" && (
-            <svg
-              width="10"
-              height="10"
-              viewBox="0 0 20 20"
-              style={{
-                transform:
-                  pibData.arrowDirection === "up" ? "" : "rotate(180deg)",
-                display: "inline-block",
-                marginRight: "5px",
-                fill: "rgba(255, 255, 255, 0.637)",
-              }}
-            >
-              <polygon points="10,0 20,20 0,20" />
-            </svg>
-          )}
-          {pibData.absDif}% fata de anul anterior
-        </p>
+        {year !== 2011 && (
+          <p className={styles.valueDif}>
+            {pibData.arrowDirection !== "" && (
+              <svg
+                width="10"
+                height="10"
+                viewBox="0 0 20 20"
+                style={{
+                  transform:
+                    pibData.arrowDirection === "up" ? "" : "rotate(180deg)",
+                  display: "inline-block",
+                  marginRight: "5px",
+                  fill: "rgba(255, 255, 255, 0.637)",
+                }}
+              >
+                <polygon points="10,0 20,20 0,20" />
+              </svg>
+            )}
+            {pibData.absDif} {year !== 2011 && "% fata de anul anterior"}
+          </p>
+        )}
         {pibData?.isHelpOpen && (
           <div className={styles.helpContainer2}>
             <p className={styles.text}>
@@ -254,26 +275,30 @@ export default function Indicators({ country, year, onClose }) {
           </p>
           <Image src={icon3ind} className={styles.icon1ind} />{" "}
         </div>
-
-        <p className={styles.valueDif}>
-          {rataSomajData.arrowDirection !== "" && (
-            <svg
-              width="10"
-              height="10"
-              viewBox="0 0 20 20"
-              style={{
-                transform:
-                  rataSomajData.arrowDirection === "up" ? "" : "rotate(180deg)",
-                display: "inline-block",
-                marginRight: "5px",
-                fill: "rgba(255, 255, 255, 0.637)",
-              }}
-            >
-              <polygon points="10,0 20,20 0,20" />
-            </svg>
-          )}
-          {rataSomajData.absDif}% fata de anul anterior
-        </p>
+        {year !== 2011 && (
+          <p className={styles.valueDif}>
+            {rataSomajData.arrowDirection !== "" && (
+              <svg
+                width="10"
+                height="10"
+                viewBox="0 0 20 20"
+                style={{
+                  transform:
+                    rataSomajData.arrowDirection === "up"
+                      ? ""
+                      : "rotate(180deg)",
+                  display: "inline-block",
+                  marginRight: "5px",
+                  fill: "rgba(255, 255, 255, 0.637)",
+                }}
+              >
+                <polygon points="10,0 20,20 0,20" />
+              </svg>
+            )}
+            {rataSomajData.absDif}
+            {year !== 2011 && "% fata de anul anterior"}
+          </p>
+        )}
         {rataSomajData?.isHelpOpen && (
           <div className={styles.helpContainer3}>
             <p className={styles.text}>
@@ -286,7 +311,7 @@ export default function Indicators({ country, year, onClose }) {
       {/* CURS VALUTAR */}
       <div className={styles.displayInd4}>
         <div className={styles.nameAndDots}>
-          <h3 className={styles.indName}>Curs valutar</h3>
+          <h3 className={styles.indName}>Curs valutar (€)</h3>
           <button
             className={styles.dots}
             onClick={() => toggleHelp("Curs valutar")}
@@ -301,28 +326,30 @@ export default function Indicators({ country, year, onClose }) {
           </p>
           <Image src={icon4ind} className={styles.icon1ind} />
         </div>
-
-        <p className={styles.valueDif}>
-          {cursValutarData.arrowDirection !== "" && (
-            <svg
-              width="10"
-              height="10"
-              viewBox="0 0 20 20"
-              style={{
-                transform:
-                  cursValutarData.arrowDirection === "up"
-                    ? ""
-                    : "rotate(180deg)",
-                display: "inline-block",
-                marginRight: "5px",
-                fill: "rgba(255, 255, 255, 0.637)",
-              }}
-            >
-              <polygon points="10,0 20,20 0,20" />
-            </svg>
-          )}
-          {cursValutarData.absDif}% fata de anul anterior
-        </p>
+        {year !== 2011 && (
+          <p className={styles.valueDif}>
+            {cursValutarData.arrowDirection !== "" && (
+              <svg
+                width="10"
+                height="10"
+                viewBox="0 0 20 20"
+                style={{
+                  transform:
+                    cursValutarData.arrowDirection === "up"
+                      ? ""
+                      : "rotate(180deg)",
+                  display: "inline-block",
+                  marginRight: "5px",
+                  fill: "rgba(255, 255, 255, 0.637)",
+                }}
+              >
+                <polygon points="10,0 20,20 0,20" />
+              </svg>
+            )}
+            {cursValutarData.absDif}
+            {year !== 2011 && "% fata de anul anterior"}
+          </p>
+        )}
         {cursValutarData?.isHelpOpen && (
           <div className={styles.helpContainer4}>
             <p className={styles.text}>
@@ -350,25 +377,29 @@ export default function Indicators({ country, year, onClose }) {
           <Image src={icon5ind} className={styles.icon1ind} />{" "}
         </div>
 
-        <p className={styles.valueDif}>
-          {populatieData.arrowDirection !== "" && (
-            <svg
-              width="10"
-              height="10"
-              viewBox="0 0 20 20"
-              style={{
-                transform:
-                  populatieData.arrowDirection === "up" ? "" : "rotate(180deg)",
-                display: "inline-block",
-                marginRight: "5px",
-                fill: "rgba(255, 255, 255, 0.637)",
-              }}
-            >
-              <polygon points="10,0 20,20 0,20" />
-            </svg>
-          )}
-          {populatieData.absDif}% fata de anul anterior
-        </p>
+        {year !== 2011 && (
+          <p className={styles.valueDif}>
+            {populatieData.arrowDirection !== "" && (
+              <svg
+                width="10"
+                height="10"
+                viewBox="0 0 20 20"
+                style={{
+                  transform:
+                    populatieData.arrowDirection === "up"
+                      ? ""
+                      : "rotate(180deg)",
+                  display: "inline-block",
+                  marginRight: "5px",
+                  fill: "rgba(255, 255, 255, 0.637)",
+                }}
+              >
+                <polygon points="10,0 20,20 0,20" />
+              </svg>
+            )}
+            {populatieData.absDif} {year !== 2011 && "% fata de anul anterior"}
+          </p>
+        )}
         {populatieData?.isHelpOpen && (
           <div className={styles.helpContainer5}>
             <p className={styles.text}>

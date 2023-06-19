@@ -10,7 +10,17 @@ import ChartComponent from "../Charts/ChartComponent";
 
 export default function IndicatorsBar({ country }) {
   const [selectedIndicator, setSelectedIndicator] = useState(null);
-  const indicators = country.ani.length > 0 ? country.ani[0].indicatori : [];
+  // const indicators = country.ani.length > 0 ? country.ani[0].indicatori : [];
+  let indicators = country.ani.length > 0 ? country.ani[0].indicatori : [];
+  indicators = indicators.map((indicator) => {
+    // Eliminam spatiile dintre numere
+    if (typeof indicator.valoare === "string") {
+      indicator.valoare = parseInt(
+        indicator.valoare.replace(/\s/g, "").replace(",", "")
+      );
+    }
+    return indicator;
+  });
 
   const handleCheckboxChange = (event) => {
     const target = event.target;
@@ -71,7 +81,17 @@ export default function IndicatorsBar({ country }) {
             indicator={selectedIndicator}
             data={country.ani.map((item) => ({
               an: item.an,
-              indicatori: item.indicatori,
+              indicatori: item.indicatori.map((indicator) => {
+                if (typeof indicator.valoare === "string") {
+                  return {
+                    ...indicator,
+                    valoare: indicator.valoare
+                      .replace(/\s/g, "")
+                      .replace(",", ""),
+                  };
+                }
+                return indicator;
+              }),
             }))}
           />
         </div>
