@@ -207,7 +207,8 @@ export default function Indicators({ country, year, onClose }) {
         {inflatieData.isHelpOpen && (
           <div className={styles.helpContainer1}>
             <p className={styles.text}>
-              Creșterea generală a prețurilor în economie pe o perioadă de timp.
+              Măsura procentuală a creșterii generale a prețurilor bunurilor și
+              serviciilor într-o anumită perioadă de timp
             </p>
           </div>
         )}
