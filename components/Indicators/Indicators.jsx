@@ -208,7 +208,7 @@ export default function Indicators({ country, year, onClose }) {
           <div className={styles.helpContainer1}>
             <p className={styles.text}>
               Măsura procentuală a creșterii generale a prețurilor bunurilor și
-              serviciilor într-o anumită perioadă de timp
+              serviciilor într-o anumită perioadă de timp.
             </p>
           </div>
         )}
@@ -251,8 +251,8 @@ export default function Indicators({ country, year, onClose }) {
         {pibData?.isHelpOpen && (
           <div className={styles.helpContainer2}>
             <p className={styles.text}>
-              Valoarea totală a bunurilor și serviciilor produse în economie
-              într-o o perioadă de timp.
+              Valoarea totală a bunurilor și serviciilor finite produse în
+              cadrul unei economii într-o o perioadă de timp.
             </p>
           </div>
         )}
@@ -303,8 +303,8 @@ export default function Indicators({ country, year, onClose }) {
         {rataSomajData?.isHelpOpen && (
           <div className={styles.helpContainer3}>
             <p className={styles.text}>
-              Procentul de persoane disponibile și în căutarea unui loc de muncă
-              în forța de muncă totală.
+              Măsura procentuală care indică proporția de persoane disponibile
+              și în căutarea unui loc de muncă în forța de muncă totale.
             </p>
           </div>
         )}
