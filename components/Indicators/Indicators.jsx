@@ -252,7 +252,7 @@ export default function Indicators({ country, year, onClose }) {
           <div className={styles.helpContainer2}>
             <p className={styles.text}>
               Valoarea totală a bunurilor și serviciilor finite produse în
-              cadrul unei economii într-o o perioadă de timp.
+              cadrul unei economii într-o perioadă de timp.
             </p>
           </div>
         )}
